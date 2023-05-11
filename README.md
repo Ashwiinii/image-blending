@@ -10,7 +10,7 @@ The project is divided into 2 major parts:
 ### Image Masking:
   - Align foreground and background images.
   - The GUI can generate a black/white image, called the mask, of the same size as the opened image, in which the selected region(s) are white and the remaining black.
-  - GUI to create mask on the foreground image of following shapes:
+  - The GUI to create mask on the foreground image is able to create masks of following shapes:
     - ellipse
     - rectangle
     - free shape
@@ -22,6 +22,6 @@ The project is divided into 2 major parts:
 
 ## Code description
 
-- run.py: The main file, run this file to get the blended image
-- conv.py: Contains convolution code and padding code 
-- pyramid _functions.py: Function for computing Gaussian and Laplacian pyramid
+- [run.py](https://github.com/Ashwiinii/image-blending/blob/main/run.py): The main file, run this file to get the blended image
+- [conv.py](https://github.com/Ashwiinii/image-blending/blob/main/conv.py): Contains convolution code and padding code 
+- [pyramid _functions.py](https://github.com/Ashwiinii/image-blending/blob/main/pyramid_functions.py): Function for computing Gaussian and Laplacian pyramid
