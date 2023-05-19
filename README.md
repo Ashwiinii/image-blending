@@ -20,6 +20,21 @@ The project is divided into 2 major parts:
   - Generate gaussian pyramid of the mask (mG).
   - Generate blended image using fL, bL, and mG.
 
+
+## Example images
+
+An example foreground-background pair. 
+<p>
+    <img src="test_images/Pair 2/foreground.jpg" width="450" alt="Foreground Image">
+    <img src="test_images/Pair 2/background.png" width="450" alt="Background Image">
+</p>
+
+Final blended image.
+<p>
+    <img src="test_images/Pair 2/blendedimg.jpg" width="450" alt="Blended Image">
+</p>
+
+
 ## Code description
 
 - [run.py](https://github.com/Ashwiinii/image-blending/blob/main/run.py): The main file, run this file to get the blended image
