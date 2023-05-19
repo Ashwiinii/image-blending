@@ -31,7 +31,7 @@ An example foreground-background pair.
 
 Final blended image.
 <p>
-    <img src="test_images/Pair 1/blendedimg.png" width="450" alt="Blended Image">
+    <img src="test_images/Pair 1/blendedimg.png" width="300" alt="Blended Image">
 </p>
 
 
