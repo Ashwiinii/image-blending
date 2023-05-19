@@ -25,13 +25,13 @@ The project is divided into 2 major parts:
 
 An example foreground-background pair. 
 <p>
-    <img src="test_images/Pair 1/foreground.jpg" width="450" alt="Foreground Image">
-    <img src="test_images/Pair 1/background.png" width="450" alt="Background Image">
+    <img src="test_images/Pair 1/foreground.jpg" width="300" alt="Foreground Image">
+    <img src="test_images/Pair 1/background.png" width="300" alt="Background Image">
 </p>
 
 Final blended image.
 <p>
-    <img src="test_images/Pair 1/blendedimg.png" width="450" alt="Blended Image">
+    <img src="test_images/Pair 1/blendedimg.png" width="300" alt="Blended Image">
 </p>
 
 
